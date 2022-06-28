@@ -1,0 +1,7 @@
+----ABOUT----
+
+STASH (grug program 3) is a program designed
+to help new users do ordinary tasks within a
+command promt.
+
+Written in bash by grug, under the GPL.
